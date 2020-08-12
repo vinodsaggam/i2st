@@ -1,0 +1,6 @@
+<li><strong>Client:</strong> Gujarat International Finance Tec-City Company Ltd.</li>
+<li><strong>Consultant:</strong> TATA CONSULTING ENGINEERS LTD.</li>
+<li><strong>Contractor:</strong> ETA ENGINERING PVT. LTD.</li>
+<li><strong>Sub-Contractor:</strong> I2S Technologies Pvt. Limited</li>
+<li><strong>Date:</strong> 26 jun 2015 </li>
+<li><strong>Project Details:</strong> Design, Supply, Installation,Testing & Commissioning</li>

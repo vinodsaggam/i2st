@@ -1,0 +1,5 @@
+<li><strong>Client:</strong> Chemtrols - HPCL.</li>
+<li><strong>Consultant:</strong> Beuro Veritas as Third Party Inspector for SIL3 System.</li>
+<li><strong>Contractor:</strong> Schneider Electric</li>
+<li><strong>Sub-Contractor:</strong> I2S Technologies Pvt. Limited</li>
+<li><strong>Project Details:</strong> Design, Engineering and FAT to SIL3 System</li>

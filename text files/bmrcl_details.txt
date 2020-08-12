@@ -1,0 +1,6 @@
+<li><strong>Client:</strong> Bengaluru Metro Rail Corporation Limited</li>
+<li><strong>Consultant:</strong> RITES-OC-PBI-SYSTRA</li>
+<li><strong>Contractor:</strong> of ETA LLC & ETA EPL Consortium</li>
+<li><strong>Sub-Contractor:</strong> I2S Technologies Pvt. Limited</li>
+<li><strong>Date:</strong> 26 jun 2015 </li>
+<li><strong>Project Details:</strong> Design, Supply, Installation,Testing & Commissioning of SIL2 Tunnel Ventilation System</li>

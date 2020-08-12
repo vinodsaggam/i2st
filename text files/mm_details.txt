@@ -1,0 +1,5 @@
+<li><strong>Client:</strong> MMOPL ONE</li>
+<li><strong>Consultant:</strong>  PB - SYSTRA.</li>
+<li><strong>Contractor:</strong> ETA Engineering Pvt. Ltd.</li>
+<li><strong>Sub-Contractor:</strong> I2S Technologies Pvt. Limited</li>
+<li><strong>Project Details:</strong> Design, Testing & Commissioning Depot Management System</li>

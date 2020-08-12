@@ -1,0 +1,6 @@
+<li><strong>Client:</strong> Qatar Railway Comapny.</li>
+<li><strong>Consultant:</strong> Egis Rail - Mott.</li>
+<li><strong>Contractor:</strong> ALYSJ</li>
+<li><strong>Sub-Contractor:</strong> SCA Qatar and I2S Technologies Pvt.Limited</li>
+<li><strong>Project Details:</strong> Design, Engineering, Installation, Testing & Commissioning of Central Cooling Plant and 4 Stations ETS
+and TVS Consultant to SE - Qatar for Lusail Light Rail Transport for SIL2 Implementation</li>

@@ -1,0 +1,5 @@
+<li><strong>Client:</strong> Delhi Metro Rail Corporation Ltd.</li>
+<li><strong>Consultant:</strong>  Mott MacDonald.</li>
+<li><strong>Contractor:</strong> ETA Engineering Pvt. Ltd.</li>
+<li><strong>Sub-Contractor:</strong> I2S Technologies Pvt. Limited</li>
+<li><strong>Project Details:</strong> ECS Smoke Extraction Sytsem - SIL2 PLC System at Dwarka Sec 21 Station</li>
